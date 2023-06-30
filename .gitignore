@@ -1,0 +1,11 @@
+*.sav
+*.bak
+!pokeace - Copy.sav
+*.bin
+/__pycache__/
+*.exe
+/chkfix_old.py
+/libpoke_types/__pycache__/
+/findshit.py
+*.lua
+*.zip
